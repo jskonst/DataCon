@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Configs(root)",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+            "**/.git": true,
+        },
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-python.python",
+			"eamodio.gitlens",
+			"mhutchie.git-graph"
+		]
+	}
+}
