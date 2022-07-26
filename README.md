@@ -7,11 +7,21 @@
 pip install pipenv
 ```
 
-```
+```shell
 pipenv shell
 ```
 
+```
+pipenv install ...
+```
+
 После установки pipenv в левом нижнем углу при использовании `vscode` следует выбрать версию интерпретатора, привязанную к проекту
+
+## Requirments
+
+```shell
+pip install -r /path/to/requirements.txt
+```
 
 ## Conda
 
