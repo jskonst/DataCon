@@ -39,3 +39,6 @@ pip install -r /path/to/requirements.txt
 ```
 docker run -it --rm -p 8888:8888 -v d:\\workspace\\isuct\\cources\\DataCon:/home/jovyan/work jupyter/datascience-notebook
 ```
+
+# MyPy
+pipenv run mypy ./
